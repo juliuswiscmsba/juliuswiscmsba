@@ -14,7 +14,7 @@ I'm Julius! Welcome to my GitHub!!
 
 ## Data Analytics & Science Project 🪄
 
-- Data Analytics Projects:
+- Data Analytics & Visualization Projects:
   - [Arknights Characters Analysis](https://github.com/juliuswiscmsba/Arknights-Analysis)
   - [Cocktail Dresses Analysis](https://github.com/juliuswiscmsba/Amazon-Cocktail-Dresses-Analysis)
   - [Flight Delay Dashboard]( https://public.tableau.com/views/Final_Project_tableau/GB765_Final_project?:language=enUS&:display_count=n&:origin=viz_share_link) 
