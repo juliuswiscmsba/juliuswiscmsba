@@ -19,7 +19,7 @@ I'm Julius! Welcome to my GitHub!!
   - [Cocktail Dresses Analysis](https://github.com/juliuswiscmsba/Amazon-Cocktail-Dresses-Analysis)
   - [Flight Delay Dashboard]( https://public.tableau.com/views/Final_Project_tableau/GB765_Final_project?:language=enUS&:display_count=n&:origin=viz_share_link) 
 
-- A/B Testing Projects:
+- A/B Testing & Experiment Projects:
   - [Rocket Fuel Analysis](https://github.com/juliuswiscmsba/RocketFuel-Analysis)
   
 - Machine Leaning Projects:
