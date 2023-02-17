@@ -18,6 +18,9 @@ I'm Julius! Welcome to my GitHub!!
   - [Arknights Characters Analysis](https://github.com/juliuswiscmsba/Arknights-Analysis)
   - [Cocktail Dresses Analysis](https://github.com/juliuswiscmsba/Amazon-Cocktail-Dresses-Analysis)
   - [Flight Delay Dashboard]( https://public.tableau.com/views/Final_Project_tableau/GB765_Final_project?:language=enUS&:display_count=n&:origin=viz_share_link) 
+
+- A/B Testing Projects:
+  - [Rocket Fuel Analysis](https://github.com/juliuswiscmsba/RocketFuel-Analysis)
   
 - Machine Leaning Projects:
   - [Flu Shoot Learning](https://github.com/juliuswiscmsba/Flu-Shot-Learning): Classification Problem
