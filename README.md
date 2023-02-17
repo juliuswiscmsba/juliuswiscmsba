@@ -7,8 +7,8 @@ I'm Julius! Welcome to my GitHub!!
 - 🔥 I'm passionate about solving business problems with data-driven solutions.
 - 📚 I’m currently learning Bayesian A/B Testing.
 - 🔭 I’m currently looking for Data Analyst or Data Scientist job!!
-- 👻 Fun Fact1: Mobile game lover!!! Played Azur Lane for 5 years!!!
-- 🌴 Fun Fact2: Started my own e-commerce business in 2019, selling PVC Figures of anime characters on online platforms!
+- ⚡  Fun Fact1: Mobile game lover!!! Played Azur Lane for 5 years!!!
+- ⚡  Fun Fact2: Started my own e-commerce business in 2019, selling PVC Figures of anime characters on online platforms!
 - 📫 How to reach me: https://www.linkedin.com/in/ming-tsung-lee/
 
 
@@ -38,14 +38,14 @@ I'm Julius! Welcome to my GitHub!!
   - [Pokemon Fighting System](https://github.com/juliuswiscmsba/Pokemon)
 
 
-## Skills:
-- Python(Numpy, Pandas, Matplotlib, Seaborn)
+## Skills 🔧
+- Python
 - SQL
 - R
 - Tableau
 - Excel
-- Machine Learning (Scikit-learn, SHAP, LIME)
-- Deep Learning (TensorFlow, PyTorch)
+- Machine Learning
+- Deep Learning
 - A/B Testing
 
 
