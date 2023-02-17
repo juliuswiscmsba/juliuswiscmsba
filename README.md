@@ -39,13 +39,13 @@ I'm Julius! Welcome to my GitHub!!
 
 
 ## Skills:
-- Python
+- Python(Numpy, Pandas, Matplotlib, Seaborn)
 - SQL
 - R
 - Tableau
 - Excel
-- Machine Learning
-- Deep Learning
+- Machine Learning (Scikit-learn, SHAP, LIME)
+- Deep Learning (TensorFlow, PyTorch)
 - A/B Testing
 
 
