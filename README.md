@@ -8,7 +8,7 @@ I'm Julius! Welcome to my GitHub!!
 - 📚 I’m currently learning Bayesian A/B Testing.
 - 🔭 I’m currently looking for Data Analyst or Data Scientist job!!
 - 👻 Fun Fact1: Mobile game lover!!! Played Azur Lane for 5 years!!!
-- 🌴 Fun Fact2: Started my own e-commerce business in 2019, selling PVC Figure of anime and game characters on online platforms!
+- 🌴 Fun Fact2: Started my own e-commerce business in 2019, selling PVC Figure of anime characters on online platforms!
 - 📫 How to reach me: https://www.linkedin.com/in/ming-tsung-lee/
 
 
