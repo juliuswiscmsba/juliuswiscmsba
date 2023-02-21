@@ -5,7 +5,7 @@ I'm Julius! Welcome to my GitHub!!
 - 🏫 UW-Madison MSBA'22 Badger! & NTPU Economics!
 - ❤️‍🔥 I’m interested in data analytics & visualization and machine learning models.
 - 🔥 I'm passionate about solving business problems with data-driven solutions.
-- 📚 I’m currently learning Bayesian A/B Testing.
+- 📚 I’m currently learning Bayesian A/B Testing and Pyspark.
 - 🔭 I’m currently looking for Data Analyst or Data Scientist job!!
 - ⚡  Fun Fact1: Mobile game lover!!! Played Azur Lane for 5 years!!!
 - ⚡  Fun Fact2: Started my own e-commerce business in 2019, selling PVC Figures of anime characters on online platforms!
