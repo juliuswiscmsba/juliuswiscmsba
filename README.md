@@ -15,6 +15,11 @@ I'm Julius! Welcome to my GitHub!!
 ## Data Analytics & Science Project 🪄
 
 - Data Analytics & Visualization Projects:
+  - [Insurance Cohort Analysis for Retention](https://github.com/juliuswiscmsba/Insurance-Cohort-Analysis-for-Retention)
+    - Are there any factors that impact the length of member Lifetime?
+    - What does Cumulative Retention Curve look like?
+    - Please predict Cumulative Retention Curve for 2019 cohorts using previous years’ data. What is the prediction accuracy against the actual curve observed? 
+
   - [Arknights Characters Analysis](https://github.com/juliuswiscmsba/Arknights-Analysis)
     - What kind of new characters should we design?
   - [Cocktail Dresses Analysis](https://github.com/juliuswiscmsba/Amazon-Cocktail-Dresses-Analysis)
@@ -22,6 +27,7 @@ I'm Julius! Welcome to my GitHub!!
     - What keywords should the seller use when setting up titles?
   - [Flight Delay Dashboard]( https://public.tableau.com/views/Final_Project_tableau/GB765_Final_project?:language=enUS&:display_count=n&:origin=viz_share_link) 
     - Southwest Airline flight delay report.
+
 
 - A/B Testing & Experiment Projects:
   - [Rocket Fuel Analysis](https://github.com/juliuswiscmsba/RocketFuel-Analysis)
